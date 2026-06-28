@@ -27,6 +27,8 @@ Feel free to explore my projects and share feedback. Let’s connect!
 
 - **Email:** [saleem.tauqeer@gmail.com](faisalfatima248@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/tauqeersaleem/](https://www.linkedin.com/in/tauqeersaleem/)
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-yellow?logo=huggingface)](https://huggingface.co/TauqeerSaleem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/tauqeersaleem)
 
 ---
 
