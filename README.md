@@ -25,9 +25,8 @@ Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where 
 
 Feel free to explore my projects and share feedback. Let’s connect!
 
-- **Email:** [saleem.tauqeer@gmail.com](faisalfatima248@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/tauqeersaleem/](https://www.linkedin.com/in/tauqeersaleem/)
-- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-yellow?logo=huggingface)](https://huggingface.co/TauqeerSaleem)
+[![Gmail](https://img.shields.io/badge/Gmail-saleem.tauqeer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saleem.tauqeer@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Models-yellow?logo=huggingface)](https://huggingface.co/TauqeerSaleem)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/tauqeersaleem)
 
 ---
