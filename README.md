@@ -21,7 +21,7 @@ Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where 
 
 ---
 
-## 🔗 Get in Touch
+## Get in Touch
 
 Feel free to explore my projects and share feedback. Let’s connect!
 
