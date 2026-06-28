@@ -2,8 +2,6 @@
 
 Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where I focus on building **Machine Translation datasets and models for low resource endangered languages of Northern Pakistan**. My research experience spans across diverse institutes such as Kelly School of Business and Center for Economic Research Pakistan, where I have worked on projects such as **using convolution networks to identify trends in stock market** to working on projects dealing with **finding the right incentive structure for Lady Health Workers in Pakistan**. 
 
----
-
 ## Publications
 
 - Analysis of bitcoin’s price spike in context of Elon Musk’s twitter activity
@@ -18,8 +16,6 @@ Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where 
 - Development of Burushaski Speech – English Text Translation Dataset
     The Second workshop on Challenges in Processing South Asian Languages
 	2026
-
----
 
 ## Get in Touch
 
