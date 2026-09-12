@@ -25,6 +25,6 @@ Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where 
 
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0kZzNH-jxtGXyhic7uX85wUpR5Bf5wAyGCcdT7vY39IcqFkvTcqSBYr7QBMnwCbg9hahjgdYjC?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+[![Schedule a meeting](https://img.shields.io/badge/Schedule%20a%20meeting-Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)]([YOUR_BOOKING_LINK_HERE](https://calendar.app.google/nZPi2DWbuafK4xPy8))
 <!-- end Google Calendar Appointment Scheduling -->
 ---
