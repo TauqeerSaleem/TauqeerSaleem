@@ -23,8 +23,4 @@ Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where 
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/TauqeerSaleem)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saleem.tauqeer@gmail.com)
 
-
-<!-- Google Calendar Appointment Scheduling begin -->
-[![Schedule a meeting](https://img.shields.io/badge/Schedule%20a%20meeting-Google%20Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/nZPi2DWbuafK4xPy8)
-<!-- end Google Calendar Appointment Scheduling -->
 ---
