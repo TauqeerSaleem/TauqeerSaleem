@@ -18,7 +18,6 @@ Hi there! I'm a pre-doctoral research fellow at Habib University, Karachi where 
 	2026
 
 ## Get in Touch
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauqeersaleem)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/TauqeerSaleem)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saleem.tauqeer@gmail.com)
